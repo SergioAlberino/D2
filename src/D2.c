@@ -34,12 +34,12 @@
 #include "FreeRTOS.h"
 #include "FreeRTOSConfig.h"
 #include "task.h"
-
 #include "sapi.h"
 #include "keys.h"
 
 /*=====[Definition & macros of public constants]==============================*/
 #define PERIODE_LED_MSEG	1000	//Perìodo 1000ms
+#define msj_1  Ejercicio D4\n
 /*=====[Definitions of extern global functions]==============================*/
 
 // Prototipo de funcion de la tarea
